@@ -8,3 +8,5 @@ Create stunning cinematic videos with the CamX tool for CarX Drift Racing Online
 - Look At Target — Select an object for the camera to focus on.
 - Manage FOV — Control the Field of View (FOV) at each keyframe.
 - Fully compatible with the graphics settings of other mods.
+> [!NOTE]
+> Download and install [KSL](https://github.com/trbflxr/ksl) before installing the mod.
