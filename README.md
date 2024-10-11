@@ -13,3 +13,5 @@ Create beautiful cinematic videos with the CamX tool for CarX Drift Racing Onlin
 - And more! Check it!
 > [!NOTE]
 > Download and install [KSL](https://github.com/trbflxr/ksl) before installing the mod.
+
+[![Cinematic Camera for CarX Drift Racing Online](https://i.ytimg.com/vi/Tt_JGsmmpwk/hqdefault.jpg)](https://www.youtube.com/watch?v=Tt_JGsmmpwk)
