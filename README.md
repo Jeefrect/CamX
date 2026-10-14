@@ -19,8 +19,10 @@ Create beautiful cinematic videos with the CamX tool for CarX Drift Racing Onlin
 * Modes and more! Check it out!
 
 > [!NOTE]
-> Download and install [KSL](https://github.com/trbflxr/ksl) before installing the mod.
 > Video recording requires `ffmpeg.exe` in `Mods/CamX`, in `PATH` or in `C:\ffmpeg\bin`.
+
+> [!NOTE]
+> Download and install [KSL](https://github.com/trbflxr/ksl) before installing the mod.
 
 
 ![BrowserPreview_tmp](https://github.com/user-attachments/assets/415879f1-014d-4f72-b44b-db5c475e0c02)
